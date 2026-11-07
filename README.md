@@ -3,6 +3,12 @@ Native Flipper Zero FAP application to control the companion serial firmware `cy
 - App ID: `nrf24_jammer`
 - Menu display name: **NRF24 JAMMER**
 
+### Flashing options
+1. **Web‑based flashing (recommended)**
+Use Spade‑K WebFlasher to flash the ESP32 firmware directly from your browser:
+👉 https://k-spade.github.io/Spade-K-WebFlasher/****
+
+
 > ⚠️ **Legal & Safety Warning**
 > This tool is intended exclusively for authorized RF testing. Unauthorized transmission on restricted radio frequencies violates local radio communication regulations.
 > Only operate on hardware you own or for which you hold explicit written authorization, inside a shielded RF-isolated laboratory.

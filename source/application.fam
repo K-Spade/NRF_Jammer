@@ -1,0 +1,12 @@
+App(
+    appid="nrf24_jammer",
+    name="NRF24 JAMMER",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="nrf24_jammer_app",
+    requires=["gui"],
+    stack_size=4 * 1024,
+    fap_category="GPIO",
+    fap_description="UART controller for NRF24 jammer",
+    fap_author="MK SIGNAL",
+    fap_version="1.0",
+)
